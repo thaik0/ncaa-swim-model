@@ -1,4 +1,4 @@
-# SwimStats: Swim Data Analytics Project
+# Swimming Data Analytics
 
 I built this project to bring data science into swim training. The goal is to move beyond just looking at "best times" and visualize how training, fatigue, and tapering affect performance throughout the season.
 
